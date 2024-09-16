@@ -1,7 +1,7 @@
 
 ## 🚀 Test Programación Kyocera
 
-Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación a Analista Programador en la empresa Kyocera
+Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación de Analista Programador en la empresa Kyocera
 
 ## Programación
 
@@ -26,9 +26,12 @@ solamente los movimientos de un caballo. (Puntos extras si se visita cada espaci
 
 ## Modelo de datos
 ## SQL: 
-Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta
+Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta.
+
 1- TestColegioDB: Creacion de la base de datos y sus tablas
+
 2- Insert_TestColegioDB: Insert correspondiente a cada tabla (10) por cada tabla
+
 3- Query: Querys solicitadas.
 
 ## SQL2: 
