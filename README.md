@@ -1,6 +1,25 @@
-## 🚀 Test Programacion 
+
+## 🚀 Test Programación Kyocera
+
+Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación a Analista Programador en la empresa Kyocera
 
 ## Programación
+
+Falta describir para que es el repositorio
+Falta describir los simbolos 
+
+ 🟢 = Completados
+ 🔴 = Falta por completar
+
+## Python:
+Para probar via web:
+
+https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
+
+Parar la ejecución de los archivos en Python desde su computador, deben estar instalado python 
+clonar el repositorio y ejecutar el archivo: 
+* Consola python3 "nombre_del_archivo"
+* Editor de codigo VS Code: tener instala da extencion para Python y ejecutar con boton play
 
 🔴 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
 
@@ -10,6 +29,15 @@
 solamente los movimientos de un caballo. (Puntos extras si se visita cada espacio una sola vez). 
 
 ## Modelo de datos
+## SQL: 
+Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta
+1- TestColegioDB: Creacion de la base de datos y sus tablas
+2- Insert_TestColegioDB: Insert correspondiente a cada tabla (10) por cada tabla
+3- Query: Querys solicitadas.
+
+## SQL2: 
+1- Respuesta.txt: Desarrollo del problema planteado con explicacion
+
 🟢 1. Un colegio necesita un sistema para administrar sus cursos. El sistema tiene que suportar que se le ingresen
 varios cursos. Cada curso tendrá un profesor a cargo y una serie de alumnos inscritos. Cada profesor, así como
 cada alumno puede estar en más de un curso. Además cada curso tendrá una cantidad no determinada de
@@ -28,30 +56,12 @@ jugador. Si la tabla en un momento dado tiene solo 20 tuplas, indique cuantas tu
 de la siguiente consulta:
 SELECT c1.Nombre, c2.Nombre FROM PLAYERS c1, PLAYERS c2 WHERE c1.Ranking > c2.Ranking
 
-   a. 400
+a. 400
 
- 🟢b. 190 
- 
-   c. 20
+b. 190 🟢 
 
-   d. imposible saberlo
+c. 20
 
-
-## Indicaciones: 
-## SQL: 
-Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta
-1- TestColegioDB: Creacion de la base de datos y sus tablas
-2- Insert_TestColegioDB: Insert correspondiente a cada tabla (10) por cada tabla
-3- Query: Querys solicitadas.
-
-## SQL2: 
-1- Respuesta.txt: Desarrollo del problema planteado con explicacion
-
-## Python:
-Parar la ejecucion de los archivos en Python deben estar instalado python 
-clonar el repositorio y ejecutar el archivo: 
-* Consola python3 "nombre_del_archivo"
-* Editor de codigo VS Code: tener instala da extencion para Python y ejecutar con boton play
-
+d. imposible saberlo
 
 
