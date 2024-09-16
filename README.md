@@ -3,15 +3,14 @@
 
 Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación de Analista Programador en la empresa Kyocera
 
-## Programación
-
-Falta describir para que es el repositorio
-Falta describir los simbolos 
+## Programación 
 
  🟢 = Completados
+ 
  🔴 = Falta por completar
 
 ## Python:
+
 Para probar via web:
 
 https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
