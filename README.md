@@ -3,13 +3,13 @@
 
 Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación de Analista Programador en la empresa Kyocera
 
-## Programación
+## Información
 
  🟢 = Completados
  
  🟠 = Falta por completar
 
-## Python:
+## 🚀 Python:
 Para probar via web:
 
 https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
@@ -22,7 +22,7 @@ https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
 🟠 3. Considere un tablero de ajedrez de NxN, realice un algoritmo que visite cada espacio del tablero, usando
 solamente los movimientos de un caballo. (Puntos extras si se visita cada espacio una sola vez). 
 
-## Modelo de datos
+## 🚀 Modelo de datos
 ## SQL: 
 Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta.
 
