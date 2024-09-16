@@ -16,10 +16,6 @@ Para probar via web:
 
 https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
 
-Parar la ejecución de los archivos en Python desde su computador, deben estar instalado python 
-clonar el repositorio y ejecutar el archivo: 
-* Consola python3 "nombre_del_archivo"
-* Editor de codigo VS Code: tener instala da extencion para Python y ejecutar con boton play
 
 🔴 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
 
