@@ -3,38 +3,37 @@
 
 Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación de Analista Programador en la empresa Kyocera
 
-## Programación 
+## Programación
 
  🟢 = Completados
  
- 🔴 = Falta por completar
+ 🟠 = Falta por completar
 
 ## Python:
-
 Para probar via web:
 
 https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
 
 
-🔴 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
+🟠 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
 
 🟢 2. Escriba una función/método tal que dado un número entero, entregue su representación en palabras (Ej. 145,“ciento cuarenta y cinco”). 
 
-🔴 3. Considere un tablero de ajedrez de NxN, realice un algoritmo que visite cada espacio del tablero, usando
+🟠 3. Considere un tablero de ajedrez de NxN, realice un algoritmo que visite cada espacio del tablero, usando
 solamente los movimientos de un caballo. (Puntos extras si se visita cada espacio una sola vez). 
 
 ## Modelo de datos
 ## SQL: 
 Los ejercicios de SQL estan realizados en TSQL, para el ejercicio 1 de adjunta dentro de la carpeta.
 
-1- TestColegioDB: Creacion de la base de datos y sus tablas
+1- TestColegioDB: Creacion de la base de datos y sus tablas.
 
-2- Insert_TestColegioDB: Insert correspondiente a cada tabla (10) por cada tabla
+2- Insert_TestColegioDB: Insert correspondiente a cada tabla (10) por cada tabla.
 
 3- Query: Querys solicitadas.
 
 ## SQL2: 
-1- Respuesta.txt: Desarrollo del problema planteado con explicacion
+1- Respuesta.txt: Desarrollo del problema planteado con explicación
 
 🟢 1. Un colegio necesita un sistema para administrar sus cursos. El sistema tiene que suportar que se le ingresen
 varios cursos. Cada curso tendrá un profesor a cargo y una serie de alumnos inscritos. Cada profesor, así como
