@@ -1,9 +1,10 @@
 
 ## 🚀 Test Programación Kyocera
 
+## Información
+
 Este repositorio esta creado con el fin de compartir las respustas y desarrollo del test de programación para la postulación de Analista Programador en la empresa Kyocera
 
-## Información
 
  🟢 = Completados
  
