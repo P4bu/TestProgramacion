@@ -13,11 +13,13 @@ Este repositorio esta creado con el fin de compartir las respustas y desarrollo 
 ## 🚀 Ejercicios de programación:
 Lenguaje de programación: Python
 
-Para probar via web ir al siguiente enlace. (Para ejecutar el codigo, en consola ingresar: python3 main.py)
+Para probar via web ir al siguiente enlace.
+
+(Para ejecutar el codigo, en consola ingresar: python3 main.py)
 
 https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
 
-(Para ejecutar el codigo, en consola ingresar: python3 main.py)
+
 
 
 🟠 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
