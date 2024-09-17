@@ -1,5 +1,5 @@
 # Se debe importar la libreria numlet (https://pypi.org/project/numlet/)
-# copiar en consola -> pip install git+https://github.com/roylanmartinez/Numlet.git
+# copiar en consola pycharm -> pip install git+https://github.com/roylanmartinez/Numlet.git 
 
 from nlt import numlet as nl
 
