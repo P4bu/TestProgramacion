@@ -17,9 +17,11 @@ Para probar via web ir al siguiente enlace.
 
 (Para ejecutar el codigo, en consola ingresar: python3 main.py)
 
-https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
+1-  https://stackblitz.com/edit/secret-python-en1gk5?file=main.py
 
+(Para ejecutar el codigo, en consola ingresar: python3 Test_Ejercicio_1.py)
 
+2-  https://stackblitz.com/edit/secret-python-en1gk5?file=Test_Ejercicio_1.py
 
 
 🟠 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
