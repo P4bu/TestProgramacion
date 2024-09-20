@@ -28,11 +28,11 @@ Para probar via web ir al siguiente enlace.
 3- https://stackblitz.com/edit/secret-python-tqbi5d?file=Test_Ejercicio_3.py
 
 
-🟠 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
+🟢 1. Escriba una función/método que determine la cantidad de 0’s a la derecha de n! (factorial). 
 
 🟢 2. Escriba una función/método tal que dado un número entero, entregue su representación en palabras (Ej. 145,“ciento cuarenta y cinco”). 
 
-🟠 3. Considere un tablero de ajedrez de NxN, realice un algoritmo que visite cada espacio del tablero, usando
+🟢 3. Considere un tablero de ajedrez de NxN, realice un algoritmo que visite cada espacio del tablero, usando
 solamente los movimientos de un caballo. (Puntos extras si se visita cada espacio una sola vez). 
 
 ## 🚀 Ejercicios de Base de Datos
